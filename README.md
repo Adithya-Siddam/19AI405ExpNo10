@@ -1,5 +1,5 @@
 # ExpNo:10 Implementation of Classical Planning Algorithm
-Name: Anbu S Adithya Chowdary<br>
+Name: S Adithya Chowdary<br>
 Register Number: 212221230100<br>
 
 # Aim:
